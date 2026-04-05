@@ -135,10 +135,11 @@ O jogo foi desenvolvido para o público **idoso**, com foco em:
 ## 👥 Equipe
 
 Projeto desenvolvido por estudantes;
+
 ANA LUIZA ESCHER (DESIGN)
-HENRIQUE LUAN Fritz (CIÊNCIA DA COMPUTAÇÃO)
-LUAN VITOR Casalli Dalabrda (CIÊNCIA DA COMPUTAÇÃO)
-LUCAS Panembeker SCKENAL (CIÊNCIA DA COMPUTAÇÃO)
+Henrique Luan Fritz (CIÊNCIA DA COMPUTAÇÃO)
+Luan Vitor Casalli Dalabrda (CIÊNCIA DA COMPUTAÇÃO)
+Lucas Panembeker Sckenal (CIÊNCIA DA COMPUTAÇÃO)
 
 ---
 
